@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Object Proxy Demo
 ===========================
+
+use `new Proxy` to wrap an object and define `get` and `set` to implement custom logic.
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
