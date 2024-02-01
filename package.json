@@ -1,10 +1,10 @@
 {
-    "scripts": {
-        "start": "ts-node hello.ts"
-    },
-    "devDependencies": {
-        "@types/node": "13.7.7",
-        "ts-node": "8.6.2",
-        "typescript": "3.8.3"
-    }
+  "scripts": {
+    "start": "ts-node hello.ts"
+  },
+  "devDependencies": {
+    "@types/node": "13.7.7",
+    "ts-node": "8.6.2",
+    "typescript": "5.3.3"
+  }
 }
