@@ -1,7 +1,7 @@
-TypeScript Object Proxy Demo
+TypeScript Object Proxy Log Visit Path Demo
 ===========================
 
-use `new Proxy` to wrap an object and define `get` and `set` to implement custom logic.
+利用Proxy可以记录object的属性访问过程，以及是否功能取得值
 
 ```
 npm install
